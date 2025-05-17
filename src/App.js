@@ -1,6 +1,6 @@
 import './App.css';
 import heroClouds from './assets/hero-clouds.svg';
-import logo from './assets/logo.png';
+import logo from './assets/mainLogo.png';
 import heroLogo from './assets/hero-logo.png';
 import heroBruh from './assets/hero-bruh.svg';
 import heroMsg from './assets/hero-message.png';
